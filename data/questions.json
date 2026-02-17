@@ -1,0 +1,11 @@
+{
+  "arithmetic": [
+    {
+      "id": "arith_1",
+      "question": "What is 15 + 27?",
+      "answer": "42",
+      "options": ["40", "42", "45", "38"],
+      "hint": "15 + 27 = 42"
+    }
+  ]
+}
